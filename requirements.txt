@@ -1,5 +1,3 @@
-streamlit
-ultralytics
-pillow
-libgl1
-libglib2.0-0
+streamlit==1.66.1
+ultralytics==8.4.202
+pillow==13.0.0
