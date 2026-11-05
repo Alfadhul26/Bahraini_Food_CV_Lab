@@ -4,7 +4,7 @@ Object detection of traditional Bahraini dishes, fine-tuned in two iterations (v
 
 **Classes (10):** Aseeda, Balaleet, Bayd w Tamat, Halwa, Harees, Kabab, Luqaimat, Machboos, Samboosa, Tikka.
 
-**🔗 Deployed Model:** <LINK>
+**🔗 Deployed Model:** <https://bahraini-food.streamlit.app>
 
 ## Project Files
 
