@@ -9,11 +9,10 @@ Object detection of traditional Bahraini dishes, fine-tuned in two iterations (v
 ## Project Files
 
 ```
-├── app.py              # Streamlit app: upload a dish photo, get detections
-├── best.pt             # Final trained model used by the app
-├── notebooks/
-│   ├── ver_1.ipynb     # Fine-tuning and evaluation of v1
-│   └── ver_2.ipynb     # Fine-tuning and evaluation of v2
+├── app.py          # Streamlit app: upload a dish photo, get detections
+├── best.pt         # Final trained model used by the app
+├── ver_1.ipynb     # Fine-tuning and evaluation of v1
+├── ver_2.ipynb     # Fine-tuning and evaluation of v2
 ├── requirements.txt
 └── README.md
 ```
